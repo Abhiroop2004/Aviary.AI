@@ -57,6 +57,6 @@ MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Note
 
-- Generate your Gemini API Key from [https://aistudio.google.com/apikey] and add it to `.env` file.
+- Generate your Gemini API Key from <https://aistudio.google.com/apikey> and add it to `.env` file.
 - 2 PDF sources in `\Data` were too large and hence couldn't be uploaded to GitHub, you can search them on Google with the terms Illustrated Encyclopedia of Birds - DK and Encyclopedia of birds - International Masters Publishing 2007 and add them to `\Data` path.
 --
