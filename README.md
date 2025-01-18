@@ -15,6 +15,14 @@ This project implements a chatbot powered by Google’s Gemini model and Wikiped
 
 Install dependencies from `requirements.txt`.
 
+## Data Sources
+
+- `Wikipedia` API Module
+- Illustrated Encyclopedia of Birds -  DK, BirdLife International
+- Encyclopedia of Birds - International Masters Publishing
+- Animals: A Visual Encyclopedia (DK Children's Visual Encyclopedias)
+- The Book of Indian Birds - Salim Ali
+
 ## Workflow
 
 1. **API Configuration**: Set up Google Gemini API key for content generation.
