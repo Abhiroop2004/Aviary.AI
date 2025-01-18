@@ -1,7 +1,5 @@
 # Aviary.AI
-AI-powered bird encyclopedia (Gen AI &amp; Langchain Project)
--- 
-Here's the updated version of the project documentation with the `app.py` UI integration:
+AI-powered bird encyclopedia (Gen AI & Langchain Project)
 
 ---
 
