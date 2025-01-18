@@ -33,6 +33,8 @@ Install dependencies from `requirements.txt`.
 6. **Prompting**: Creates dynamic prompts to generate concise, factual responses.
 7. **User Interaction**: Handles user queries, and integrates custom data and Wikipedia to generate responses.
 
+Check `setup.ipynb` for the details of 1-4
+
 ## `app.py` - User Interface
 
 The user interface is built using [Streamlit](https://streamlit.io/). It allows users to input the name of a bird, search for information, and view detailed results in an organized format.
