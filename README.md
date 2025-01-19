@@ -1,5 +1,5 @@
 # Aviary.AI
-AI-powered Bird Encyclopedia Chatbot (Gen AI & Langchain Project)
+AI-powered Bird Encyclopedia Chatbot - Gen AI & Langchain Project
 ---
 This project implements a chatbot powered by Google’s Gemini model and Wikipedia, integrated with custom bird-related data from PDF encyclopedias. The chatbot answers user queries about birds and provides detailed information such as scientific names, habitats, and diets.
 
