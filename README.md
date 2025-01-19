@@ -1,7 +1,7 @@
 # Aviary.AI
 AI-powered Bird Encyclopedia Chatbot (Gen AI & Langchain Project)
 ---
-This project implements a chatbot powered by Google’s Gemini model and Wikipedia, integrated with custom bird-related data from PDF encyclopedias. The chatbot answers user queries about birds and provides detailed information such as scientific names, habitats, diets, and more.
+This project implements a chatbot powered by Google’s Gemini model and Wikipedia, integrated with custom bird-related data from PDF encyclopedias. The chatbot answers user queries about birds and provides detailed information such as scientific names, habitats, and diets.
 
 ## Features
 
@@ -63,4 +63,4 @@ MIT License - see the [LICENSE](LICENSE) file for details.
 
 - Generate your Gemini API Key from <https://aistudio.google.com/apikey> and add it to `.env` file.
 - 2 PDF sources in `\Data` were too large and hence couldn't be uploaded to GitHub, you can search them on Google with the terms Illustrated Encyclopedia of Birds - DK and Encyclopedia of birds - International Masters Publishing 2007 and add them to `\Data` path.
---
+---
