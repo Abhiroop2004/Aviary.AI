@@ -72,7 +72,6 @@ st.markdown("""
 
 # Page header and description
 st.write("# Aviary.AI - Your AI-powered bird encyclopedia")
-#st.subheader("Powered by Wikipedia, Gemini API, and three encyclopedias")
 st.write("##### Enter the name of the bird you want to know more about in the searchbar, and click search")
 
 
